@@ -1,8 +1,7 @@
 # NHS Dashboard — Data Analysis Project
 
 **Repository:** `DashBoard_NHS`
-**Author:** Perumal V (you) — Data Analyst
-
+**Author:** Perumal V  — Data Analyst
 ---
 
 ## Project overview
