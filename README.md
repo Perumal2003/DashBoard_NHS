@@ -23,11 +23,18 @@ Place your exported dashboard images and any supporting assets here:
 README.md                     # this file
 ```
 
-To show an image in README (after you add it to `/images`), use this markdown in the README where you want the screenshot to appear:
+## Dashboard Previews
 
-```md
-![Dashboard overview](images/dashboard_overview.png)
-```
+<p align="center">
+  <img src="https://github.com/Perumal2003/DashBoard_NHS/blob/main/View/NHS%201.png" alt="Dashboard 1" width="300"/>
+  <img src="https://github.com/Perumal2003/DashBoard_NHS/blob/main/View/NHS%202.png" alt="Dashboard 2" width="300"/>
+  <img src="https://github.com/Perumal2003/DashBoard_NHS/blob/main/View/NHS%203.png" alt="Dashboard 3" width="300"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/Perumal2003/DashBoard_NHS/blob/main/View/NHS%204.png" alt="Dashboard 4" width="300"/>
+  <img src="https://github.com/Perumal2003/DashBoard_NHS/blob/main/View/NHS%205.png" alt="Dashboard 5" width="300"/>
+</p>
 
 ---
 
